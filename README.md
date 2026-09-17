@@ -4,11 +4,11 @@
 Criar um "segundo cérebro" e base de conhecimento estruturada sobre a vida, contexto histórico e produção musical de Antonio Vivaldi no período Barroco, utilizando o Google NotebookLM como ferramenta de aprendizagem ativa.
 
 ## 📚 Curadoria de Fontes
-1. [Antonio Vivaldi – Wikipédia](https://pt.wikipedia.org/wiki/Antonio_Vivaldi) `[Texto Web]`
+1. [Antonio Vivaldi – Wikipédia](https://pt.wikipedia.org/wiki/Antonio_Vivaldi)
    * *Foco:* Linha do tempo biográfica, catálogo das principais obras instrumentais e contexto da Veneza barroca.
-2. [EBSCO Research Starters: Antonio Vivaldi](https://www.ebsco.com/research-starters/history/antonio-vivaldi/) `[Texto Web]`
+2. [EBSCO Research Starters: Antonio Vivaldi](https://www.ebsco.com/research-starters/history/antonio-vivaldi/)
    * *Foco:* Resumo acadêmico sobre a atuação no Ospedale della Pietà e contribuição técnica ao concerto para solista.
-3. [As Quatro Estações e a Vida de Antonio Vivaldi – Bach Society Brasil](https://www.bachsocietybrasil.com/post/as-quatro-estacoes-e-a-vida-de-antonio-vivaldi) `[Texto Web]`
+3. [As Quatro Estações e a Vida de Antonio Vivaldi – Bach Society Brasil](https://www.bachsocietybrasil.com/post/as-quatro-estacoes-e-a-vida-de-antonio-vivaldi)
    * *Foco:* Estudo focado na obra mais emblemática e no uso de sonetos como narrativa musical.
   
 
