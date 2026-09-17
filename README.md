@@ -1,4 +1,4 @@
-# 🎻 Caderno Temático: Antonio Vivaldi no NotebookLM
+# Antonio Vivaldi no NotebookLM
 
 ## 🎯 Contexto e Objetivos
 Criar um "segundo cérebro" e base de conhecimento estruturada sobre a vida, contexto histórico e produção musical de Antonio Vivaldi no período Barroco, utilizando o Google NotebookLM como ferramenta de aprendizagem ativa.
